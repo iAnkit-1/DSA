@@ -1,0 +1,5 @@
+DSA/Array-Easy/build/
+.DS_Store
+.vscode/
+.idea/
+*.log
